@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@font-face {
+  font-family: 'Kitab';
+  src: url("./fonts/Kitab-Regular.ttf");
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.font-arabic {
+  font-family: 'Kitab';
+}
