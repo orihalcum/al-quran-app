@@ -1,6 +1,7 @@
 # Al Quran App
 
-Build with TailwindCSS and Next.js
+Build with TailwindCSS and Next.js Al Quran App with feature One Day one Ayat, Arabic, Translation, Sound.
+
 
 ### Install dependencies:
 
