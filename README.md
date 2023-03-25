@@ -1,5 +1,5 @@
 # Al Quran App
-Build with TailwindCSS and Next.js Al Quran App with feature One Day one Ayat, Arabic, Translation, and Sound. Demo [Alquran.app](https://dzf-collections-al-quran-app.vercel.app/)
+Build with TailwindCSS and Next.js Al Quran App (PWA) with feature One Day one Ayat, Arabic, Translation, and Sound. Demo [Alquran.app](https://dzf-collections-al-quran-app.vercel.app/)
 
 
 ### Install dependencies:
